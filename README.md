@@ -19,6 +19,26 @@
 
 All data and processing are hosted on Google Colab. We do not store or have access to any of your data. This ensures privacy and security for users leveraging this tool.
 
+### Prerequisites
+
+- App Store Connect API Key
+- OpenAI API Key
+
+#### Generating App Store Connect API Key
+
+1. Log in to your [App Store Connect account](https://appstoreconnect.apple.com/).
+2. Navigate to 'Users and Access', and then to the 'Keys' tab.
+3. Click on the '+' to create a new API key.
+4. Provide the necessary details and permissions for the key.
+5. Download the API key and securely store it for use in the notebook.
+
+#### Generating OpenAI API Key
+
+1. Sign up or log in to your [OpenAI account](https://beta.openai.com/signup/).
+2. Go to the API section in your account settings.
+3. Click on ‘Create new secret key’.
+4. Copy and securely store the key for use in the notebook.
+
 ## Getting Started on Google Colab
 
 Open the notebook in Google Colab: [AppStore What's New Automation](https://colab.research.google.com/drive/1zi2PId4_Mo-zTj9Idjc_vFzA03ikt78f#scrollTo=dAArQlUsmAIT)
