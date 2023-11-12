@@ -19,6 +19,7 @@
 
 All data and processing are hosted on Google Colab. We do not store or have access to any of your data. This ensures privacy and security for users leveraging this tool.
 
+
 ## Prerequisites
 
 - App Store Connect API Key
@@ -42,6 +43,14 @@ All data and processing are hosted on Google Colab. We do not store or have acce
 ## Getting Started on Google Colab
 
 Open the notebook in Google Colab: [AppStore What's New Automation](https://colab.research.google.com/drive/1zi2PId4_Mo-zTj9Idjc_vFzA03ikt78f#scrollTo=dAArQlUsmAIT)
+
+### For Enhanced Security and Personalization
+
+For added security and the ability to customize the notebook, it's recommended to copy it to your personal Google Drive:
+
+1. Open the notebook using the provided link.
+2. In the Colab interface, select 'File' > 'Save a copy in Drive' to create your own version of the notebook.
+3. This copy will be private to you and can be modified as per your requirements.
 
 ### Usage
 
