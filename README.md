@@ -19,7 +19,7 @@
 
 All data and processing are hosted on Google Colab. We do not store or have access to any of your data. This ensures privacy and security for users leveraging this tool.
 
-### Prerequisites
+## Prerequisites
 
 - App Store Connect API Key
 - OpenAI API Key
